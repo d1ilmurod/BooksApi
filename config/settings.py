@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     # Tashqi paket
     'rest_framework',
     # locale app
-    'books'
+    'books',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
